@@ -4,9 +4,8 @@
 - [x] Code: WhiteA10n3 
 
 * MCU: STM32F103
-* Flash: W25Q32
-* TFT Screen
-* Ra-01
+* 1.44' TFT Screen
+* Ra-01 Lora
 * 6 Buttons
 * 18 x RGB LED
 
